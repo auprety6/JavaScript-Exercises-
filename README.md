@@ -1,3 +1,6 @@
+Output 
+PS C:\Users\oakto> cd OneDrive\Documents\PyGuy 
+PS C:\Users\oakto\OneDrive\Documents\PyGuy> node test.js
 row 0
  1
  2
@@ -23,3 +26,4 @@ row 4
  10
  26
  7
+PS C:\Users\oakto\OneDrive\Documents\PyGuy> 
