@@ -39,3 +39,11 @@ for (let i = 0; i < arr1.length; i++) {
 
 // Output the sorted array
 console.log(arr2);
+
+
+//output-
+//PS C:\Users\oakto\OneDrive\Documents\PyGuy> node Algo.js
+//[
+  -4, -3, 1, 2, 3,
+   5,  6, 7, 8
+//]
